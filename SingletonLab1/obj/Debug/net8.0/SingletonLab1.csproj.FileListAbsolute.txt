@@ -1,0 +1,14 @@
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\bin\Debug\net8.0\SingletonLab1.exe
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\bin\Debug\net8.0\SingletonLab1.deps.json
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\bin\Debug\net8.0\SingletonLab1.runtimeconfig.json
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\bin\Debug\net8.0\SingletonLab1.dll
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\bin\Debug\net8.0\SingletonLab1.pdb
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\SingletonLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\SingletonLab1.AssemblyInfoInputs.cache
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\SingletonLab1.AssemblyInfo.cs
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\SingletonLab1.csproj.CoreCompileInputs.cache
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\SingletonLab1.dll
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\refint\SingletonLab1.dll
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\SingletonLab1.pdb
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\SingletonLab1.genruntimeconfig.cache
+C:\Users\gdr27\source\repos\SingletonLab1\SingletonLab1\obj\Debug\net8.0\ref\SingletonLab1.dll
